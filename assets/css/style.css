@@ -72,6 +72,19 @@ li {
     color: green;
 }
 
+/* Styling specific to About Me section*/
+#About {
+    display: block;
+}
+
+#About img {
+    max-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px #888;
+}
+
 /* Styling for the Works section */
 #Works h2 {
     text-align: center;
