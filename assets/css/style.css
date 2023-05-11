@@ -57,6 +57,10 @@ li {
 
 #Works h2 {
     text-align: center;
+    background-color: white;
+    color: #045e8f;
+    padding: 10px;
+    margin: 0px;
 }
 
 .card {
@@ -75,6 +79,10 @@ li {
 
 .card h4 {
     text-align: center;
+}
+
+#filler {
+    width: 5000px;
 }
 
 footer {
