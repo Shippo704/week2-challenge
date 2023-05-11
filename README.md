@@ -3,7 +3,15 @@
 ## Description
 This is my first pass at making an online portfolio. There are navigation links to quickly access the four main sections of the webpage. Additionally there is a 'Back to Top' button at the bottom of the pages so users won't have to scroll as much.
 
-The About Me section contains a short description of myself and two photos. The Education section briefly outlines my post-secondary education. The Works section links to projects that I have completed. Web projects will open in a new tab, while downloadable files will be downloaded when clicked. The contact section has a link to send me an email as well as a form that accomplishes the same thing as the link.
+The About Me section contains a short description of myself and two photos. 
+
+The Education section briefly outlines my post-secondary education. 
+
+The Works section links to projects that I have completed. Web projects will open in a new tab, while downloadable files will be downloaded when clicked. The images have hover effects to indicate what is being examined.
+
+The Contact section has a link to send me an email as well as a form that accomplishes the same thing as the link. There are hover and focus effects on the input boxes of the form and placeholder text when they are empty.
+
+The focus effects show up as a black border around any link or input area on the webpage that is focused on.
 
 ## Visual
 
@@ -11,7 +19,7 @@ The About Me section contains a short description of myself and two photos. The 
 
 ## URLs
 
-[This is my GitHub page]
+[This is the GitHub repository for this webpage](https://github.com/Shippo704/week2-challenge)
 [This is the deployed webpage]
 
 ## Credits
