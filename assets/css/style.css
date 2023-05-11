@@ -100,14 +100,7 @@ li {
     margin-right: auto;
 }
 
-.workscard img {
-    max-width: 400px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-}
-
+/* Workscard text */
 .workscard h4 {
     text-align: center;
     padding: 10px;
@@ -116,6 +109,19 @@ li {
 .workscard p {
     text-align: justify;
     padding: 10px;
+}
+
+/* Workscard images */
+.workscard img {
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.workscard img:hover {
+    opacity: 0.5;
 }
 
 /* This can be removed when the filler card is replaced */
