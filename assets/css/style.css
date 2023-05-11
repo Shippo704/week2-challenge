@@ -31,12 +31,16 @@ h1 {
 
 .navigation ul {
     display: block;
+    /* margin-bottom: 20px; */
+    padding: 20px;
 }
-
 .navigation li {
     display: inline-block;
-    position: right 20px;
+    position: relative;
+    right: 0px;
+    top: 20px;
     font-size: 20px;
+
 } 
 
 ul{
