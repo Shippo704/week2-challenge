@@ -20,7 +20,8 @@ The focus effects show up as a black border around any link or input area on the
 ## URLs
 
 [This is the GitHub repository for this webpage](https://github.com/Shippo704/week2-challenge)
-[This is the deployed webpage]
+
+[This is the deployed webpage](https://shippo704.github.io/week2-challenge/)
 
 ## Credits
 I used and adapted some code from [https://blog.getform.io/how-to-create-an-html-form-that-sends-you-an-email/](https://blog.getform.io/how-to-create-an-html-form-that-sends-you-an-email/) and [https://codepen.io/hubspot/pen/abYWrOz](https://codepen.io/hubspot/pen/abYWrOz) to help me make a form that can send an email.
