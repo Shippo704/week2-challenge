@@ -4,17 +4,17 @@
     margin: 0;
 }
 
+a {
+    color: yellowgreen;
+}
+
 body {
     background-color: #045e8f;
     color: white;
 }
 
-a:link {
-    color: yellow;
-}
-
-a:visited {
-    color: yellowgreen;
+.infocard a:visited {
+    color: green;
 }
 
 .header {
@@ -23,6 +23,10 @@ a:visited {
 
 h1, h2, h3 {
     margin: 20px;
+}
+
+h1 {
+    font-size: 64px;
 }
 
 ul{
@@ -38,6 +42,7 @@ li {
 .container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .infocard {
@@ -50,16 +55,28 @@ li {
     
 }
 
-/* #Education {
-    background-color: white;
-    color: #045e8f;
-    padding: 20px;
-    margin: 30px 10px;
-    border-radius: 25px;
-    box-shadow: 15px 15px red;
-} */
-
-.card {
-
+#Works h2 {
+    text-align: center;
 }
 
+.card {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card img {
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.card h4 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
