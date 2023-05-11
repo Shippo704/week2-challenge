@@ -9,12 +9,10 @@
 </head>
 
 <body>
+    <!-- Web Page title and Navigation Links -->
     <section class="header">
         <h1>Matthew Taylor</h1>
         <section class="navigation">
-        <!-- <img src="assets/images/home.jpg" title="Home" alt="home page button">
-        <img src="assets/images/pages.jpg" title="Pages" alt="pages button">
-        <img src="assets/images/downloads.jpg" title="Downloads" alt="downloads button"> -->
             <ul>
                 <li><a href="#About">About Me</a></li>
                 <li><a href="#Education">Education</a></li>
@@ -25,6 +23,8 @@
     </section>
 
     <section class="container">
+
+        <!-- About Me card -->
         <section id="About" class="infocard">
             <h2>About Me</h2>
             <p>I am 29 years old and have dabbled in coding for the past few years. I have some 
@@ -36,6 +36,7 @@
             </p>
         </section>
 
+        <!-- Education Card -->
         <section id="Education" class="infocard">
             <h2>Education</h2>
             <p>I have studied at three Ontario universities and obtained two degrees.</p>
@@ -68,14 +69,17 @@
         </section>
     </section>
 
+    <!-- Works Section -->
     <section id="Works">
         <h2>My Works</h2>
         <section class="container">
+            <!-- Filler card to be replaced with my first web app in the future -->
             <section class="workscard infocard" id="filler">
                 <img src="assets/images/webap1.png" title="WebAp1" alt="The first web app I made">
                 <h4>Web App 1</h4>
                 <p>Description of Web App 1.</p>
             </section>
+            <!-- CS 1033 Assignment 2 -->
             <section class="workscard infocard">
                 <a href="assets/works/Assignment 2/webassign/index.html" target="_blank"><img src="assets/images/CS1033A2.png" title="Web Assignment 2" alt="Image representing the first website I made"></a>
                 <h4><a href="assets/works/Assignment 2/webassign/index.html" target="_blank">CS 1033 Web Assignment 2</a></h4>
@@ -85,6 +89,7 @@
                     browsers on the university computers. The original live site has been taken down as of Apr. 30, 2023.
                 </p>
             </section>
+            <!-- CS 1033 Assignment 3-->
             <section class="workscard infocard">
                 <a href="assets/works/Assignment 3/index.html" target="_blank"><img src="assets/images/CS1033A3.png" title="Web Assignment 3" alt="Image representing the second website I made"></a>
                 <h4><a href="assets/works/Assignment 3/index.html" target="_blank">CS 1033 Web Assignment 3</a></h4>
@@ -97,6 +102,7 @@
                     The original live site has been taken down as of Apr. 30, 2023.
                 </p>
             </section>
+            <!-- Blank Bingo Card Generator I made for fun then used for extra credit in CS 2034 2 months later -->
             <section class="workscard infocard">
                 <a href="assets/works/Blank Bingo Card Generator.xlsm" download><img src="assets/images/bingocard.png" title="Download Bingo Card Generator" alt="Image of default bingo card in excel"></a>
                 <h4><a href="assets/works/Blank Bingo Card Generator.xlsm" download>Excel Blank Bingo Card Generator</a></h4>
@@ -110,11 +116,14 @@
         </section>
     </section>
 
+    <!-- Contact Me Section-->
     <section id="Contact" class="infocard">
         <h2>Contact Me</h2>
+        <!-- A link that opens email program with my email already entered -->
         <p>You can contact me by e-mail at <a href="mailto:matt.taylor704@yahoo.ca">my e-mail address.</a></p>
         
         <p>Alternatively, use the form below.</p>
+        <!-- A form that will open an email program with name and message already in message area and my email in the To: box. -->
         <form action="mailto:matt.taylor704@yahoo.ca"
             method="POST"
             enctype="text/plain"
@@ -122,12 +131,12 @@
         >
         <label for="name">Name:</label>
         <br>
-        <input type="text" id="name" name="name">
+        <input type="text" id="name" class="textbox" name="name" placeholder="First Name Last Name">
         <br><br>
-        <label for="message">Message</label>
+        <label for="message">Message:</label>
         <br>
-        <textarea name="message" rows="6" cols="25">
-        </textarea><br><br>
+        <textarea type="text" id="message" class="textbox" name="message" rows="6" cols="60" placeholder="Write your message here"></textarea>
+        <br><br>
         <button type="submit" value="Submit">Send</button>
 
         </form>
@@ -137,10 +146,9 @@
 
 </body>
 
+<!-- Back to Top link to avoid scrolling so much -->
 <footer>
     <a href="#top">Back to Top</a>
-
-
 </footer>
 
 

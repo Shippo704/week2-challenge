@@ -13,6 +13,7 @@ body {
     color: white;
 }
 
+/* Header styling for Site Title and Section Titles */
 .header {
     display: flex;
 }
@@ -25,6 +26,7 @@ h1 {
     font-size: 64px;
 }
 
+/* Styling for navigation links */
 .navigation ul {
     display: block;
     padding: 20px;
@@ -48,12 +50,14 @@ li {
     margin: 20px;
 }
 
+/* Initiate flex container */
 .container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
+/* Styling for all cards containing information */
 .infocard {
     background-color: white;
     color: #045e8f;
@@ -68,6 +72,7 @@ li {
     color: green;
 }
 
+/* Styling for the Works section */
 #Works h2 {
     text-align: center;
     background-color: white;
@@ -100,14 +105,26 @@ li {
     padding: 10px;
 }
 
+/* This can be removed when the filler card is replaced */
 #filler {
     width: 5000px;
 }
 
+/* Styling for the Contact Me card */
 #Contact p {
     margin-bottom: 10px;
 }
 
+/* Accessibility styling  for textboxes*/
+.textbox:hover {
+    box-shadow: 0px 0px 3px #888
+}
+
+.textbox:focus {
+    border-width: 2px; 
+}
+
+/* Footer Styiing */
 footer {
     text-align: center;
 }
