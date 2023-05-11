@@ -71,12 +71,12 @@
     <section id="Works">
         <h2>My Works</h2>
         <section class="container">
-            <section class="card infocard" id="filler">
+            <section class="workscard infocard" id="filler">
                 <img src="assets/images/webap1.png" title="WebAp1" alt="The first web app I made">
                 <h4>Web App 1</h4>
                 <p>Description of Web App 1.</p>
             </section>
-            <section class="card infocard">
+            <section class="workscard infocard">
                 <a href="assets/works/Assignment 2/webassign/index.html" target="_blank"><img src="assets/images/CS1033A2.png" title="Web Assignment 2" alt="Image representing the first website I made"></a>
                 <h4><a href="assets/works/Assignment 2/webassign/index.html" target="_blank">CS 1033 Web Assignment 2</a></h4>
                 <p>I was given a notepad document of the information to be displayed across five webpages. From there, 
@@ -85,7 +85,7 @@
                     browsers on the university computers. The original live site has been taken down as of Apr. 30, 2023.
                 </p>
             </section>
-            <section class="card infocard">
+            <section class="workscard infocard">
                 <a href="assets/works/Assignment 3/index.html" target="_blank"><img src="assets/images/CS1033A3.png" title="Web Assignment 3" alt="Image representing the second website I made"></a>
                 <h4><a href="assets/works/Assignment 3/index.html" target="_blank">CS 1033 Web Assignment 3</a></h4>
                 <p>I was tasked with creating a 5-page website about what I will be doing during summer 2023. The 
@@ -97,8 +97,8 @@
                     The original live site has been taken down as of Apr. 30, 2023.
                 </p>
             </section>
-            <section class="card infocard">
-                <a href="assets/works/Blank Bingo Card Generator.xlsm" download><img src="assets/images/bingocard.png" title="Bingo Card Generator" alt="Image of bingo card in excel"></a>
+            <section class="workscard infocard">
+                <a href="assets/works/Blank Bingo Card Generator.xlsm" download><img src="assets/images/bingocard.png" title="Download Bingo Card Generator" alt="Image of default bingo card in excel"></a>
                 <h4><a href="assets/works/Blank Bingo Card Generator.xlsm" download>Excel Blank Bingo Card Generator</a></h4>
                 <p>I originally designed this bingo card generator for a friend who does bingo card randomiser runs of 
                     the game Hollow Knight. Together, we had brainstormed over 200 prompts to play with various game mods. 
@@ -112,7 +112,25 @@
 
     <section id="Contact" class="infocard">
         <h2>Contact Me</h2>
-        <p>You can contact me by e-mail at <a href="mailto:matt.taylor704@yahoo.ca">matt.taylor704@yahoo.ca</a></p>
+        <p>You can contact me by e-mail at <a href="mailto:matt.taylor704@yahoo.ca">my e-mail address.</a></p>
+        
+        <p>Alternatively, use the form below.</p>
+        <form action="mailto:matt.taylor704@yahoo.ca"
+            method="POST"
+            enctype="text/plain"
+            name="emailForm"
+        >
+        <label for="name">Name:</label>
+        <br>
+        <input type="text" id="name" name="name">
+        <br><br>
+        <label for="message">Message</label>
+        <br>
+        <textarea name="message" rows="6" cols="25">
+        </textarea><br><br>
+        <button type="submit" value="Submit">Send</button>
+
+        </form>
     </section>
 
 
