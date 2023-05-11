@@ -29,6 +29,16 @@ h1 {
     font-size: 64px;
 }
 
+.navigation ul {
+    display: block;
+}
+
+.navigation li {
+    display: inline-block;
+    position: right 20px;
+    font-size: 20px;
+} 
+
 ul{
     list-style: none;
     display: flex;
