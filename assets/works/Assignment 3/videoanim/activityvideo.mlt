@@ -1,0 +1,905 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.13.0" title="Shotcut version 22.12.21" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_2_arboretum.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:34:24</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0ddb1c2911a27f19e0f2bc8997e0ed70</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_3_parkway.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:35:28</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">840716ad8bc9c9d4cfbcb5c520c908df</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_4_parkway.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:36:40</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8370b689750014e1d659e31bf5cd1573</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_5_rapidspark.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:38:20</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e01b5804ff7808cd65c3e6c3eb5e5e64</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_6_westborobeach.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:39:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">007c73c333f6ddc2da4c17ec5806e71a</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_7_parkway.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:41:19</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">95ac89ad158376b22f994a11d80a28b2</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_8_brittaniaconservation.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:42:41</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">496ae4e91db05a864d3272282f527660</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_9_brittaniabeach.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:43:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">eb26d738c9f624b4c9d811a147f79c0b</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_10_andrewhaydenpark.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:45:25</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b6d001cd9eb235ecb2ce1c04b078a9c9</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_11_nepeansailclub.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:47:23</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">77e4bae4e3b67c0fa02917afb50fbdc9</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_12_oldnortelbuilding.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:48:57</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">700c7b6d078e6f22de75557dac9e8554</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_1_canal.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:33:01</property>
+    <property name="shotcut:caption">movie_1_canal.png</property>
+    <property name="shotcut:hash">2577b11863417d266a347a97ee73caf7</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/bikepath.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:14:22</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b8096e051343ae24b22cb690c65cc33d</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 22.12.21">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:28.120">
+    <property name="length">00:00:28.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:28.120"/>
+  </playlist>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/bikepath.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:14:22</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b8096e051343ae24b22cb690c65cc33d</property>
+    <property name="shotcut:caption">bikepath.png</property>
+    <filter id="filter0" out="00:00:01.960">
+      <property name="argument"></property>
+      <property name="geometry">1533 749 227 91 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Verdana'; font-size:32pt; font-weight:600; color:#ff0c10;&quot;&gt;START&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter1" out="00:00:01.960">
+      <property name="argument"></property>
+      <property name="geometry">206 808 328 173 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Verdana'; font-size:32pt; font-weight:600; color:#ff2529;&quot;&gt;TURN AROUND&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter2" out="00:00:01.960">
+      <property name="argument"></property>
+      <property name="geometry">650 26 621 333 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Verdana'; font-size:72pt; font-weight:600; color:#ff292d;&quot;&gt;MY ROUTE&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Verdana'; font-size:72pt; font-weight:600; color:#ff292d;&quot;&gt;   ~20km&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter3" out="00:00:01.960">
+      <property name="argument"></property>
+      <property name="geometry">1725 39 204 150 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Verdana'; font-size:20pt; font-weight:600; color:#ffffff;&quot;&gt;MTAYL254&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_1_canal.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:33:01</property>
+    <property name="shotcut:caption">movie_1_canal.png</property>
+    <property name="shotcut:hash">2577b11863417d266a347a97ee73caf7</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_2_arboretum.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:34:24</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0ddb1c2911a27f19e0f2bc8997e0ed70</property>
+    <property name="shotcut:caption">movie_2_arboretum.png</property>
+  </producer>
+  <tractor id="tractor0" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer14" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer15" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition0" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter4" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_3_parkway.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:35:28</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">840716ad8bc9c9d4cfbcb5c520c908df</property>
+    <property name="shotcut:caption">movie_3_parkway.png</property>
+  </producer>
+  <tractor id="tractor1" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer15" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer16" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition2" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter5" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_4_parkway.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:36:40</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8370b689750014e1d659e31bf5cd1573</property>
+    <property name="shotcut:caption">movie_4_parkway.png</property>
+  </producer>
+  <tractor id="tractor2" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer16" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer17" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition4" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition5" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter6" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_5_rapidspark.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:38:20</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e01b5804ff7808cd65c3e6c3eb5e5e64</property>
+    <property name="shotcut:caption">movie_5_rapidspark.png</property>
+  </producer>
+  <tractor id="tractor3" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer17" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer18" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition6" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition7" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter7" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_6_westborobeach.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:39:56</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">007c73c333f6ddc2da4c17ec5806e71a</property>
+    <property name="shotcut:caption">movie_6_westborobeach.png</property>
+  </producer>
+  <tractor id="tractor4" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer18" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer19" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition8" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition9" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter8" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_7_parkway.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:41:19</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">95ac89ad158376b22f994a11d80a28b2</property>
+    <property name="shotcut:caption">movie_7_parkway.png</property>
+  </producer>
+  <tractor id="tractor5" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer19" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer20" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition10" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition11" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter9" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_8_brittaniaconservation.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:42:41</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">496ae4e91db05a864d3272282f527660</property>
+    <property name="shotcut:caption">movie_8_brittaniaconservation.png</property>
+  </producer>
+  <tractor id="tractor6" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer20" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer21" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition12" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition13" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter10" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_9_brittaniabeach.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:43:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">eb26d738c9f624b4c9d811a147f79c0b</property>
+    <property name="shotcut:caption">movie_9_brittaniabeach.png</property>
+  </producer>
+  <tractor id="tractor7" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer21" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer22" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition14" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition15" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter11" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_10_andrewhaydenpark.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:45:25</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b6d001cd9eb235ecb2ce1c04b078a9c9</property>
+    <property name="shotcut:caption">movie_10_andrewhaydenpark.png</property>
+  </producer>
+  <tractor id="tractor8" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer22" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer23" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition16" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition17" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter12" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_11_nepeansailclub.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:47:23</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">77e4bae4e3b67c0fa02917afb50fbdc9</property>
+    <property name="shotcut:caption">movie_11_nepeansailclub.png</property>
+  </producer>
+  <tractor id="tractor9" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer23" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer24" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition18" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition19" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+    <filter id="filter13" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer25" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/movie_12_oldnortelbuilding.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:48:57</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">700c7b6d078e6f22de75557dac9e8554</property>
+    <property name="shotcut:caption">movie_12_oldnortelbuilding.png</property>
+  </producer>
+  <tractor id="tractor10" in="00:00:00.000" out="00:00:00.160">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer24" in="00:00:02.000" out="00:00:02.160"/>
+    <track producer="producer25" in="00:00:00.000" out="00:00:00.160"/>
+    <transition id="transition20" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition21" out="00:00:00.160">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+    <filter id="filter14" out="00:00:00.160">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.160=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.200</property>
+    </filter>
+  </tractor>
+  <producer id="producer26" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/mattt/Documents/Western University/CS 1033/Assignments/Assignment 3/images/bikepath.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-04-01T16:14:22</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b8096e051343ae24b22cb690c65cc33d</property>
+    <property name="shotcut:caption">bikepath.png</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:01.960"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:01.960"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer15" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer16" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer17" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor3" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer18" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor4" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer19" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor5" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer20" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor6" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer21" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor7" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer22" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor8" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer23" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor9" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer24" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="tractor10" in="00:00:00.000" out="00:00:00.160"/>
+    <entry producer="producer25" in="00:00:00.200" out="00:00:01.960"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:00:01.960"/>
+  </playlist>
+  <chain id="chain0" out="00:00:28.120">
+    <property name="length">00:00:28.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">trimmedsummermvt2.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-04-01T17:37:26</property>
+    <property name="shotcut:hash">9d8cd7eab66e1cd9cd76e0501be45e86</property>
+    <property name="shotcut:caption">trimmedsummermvt2.mp3</property>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:28.120"/>
+  </playlist>
+  <tractor id="tractor11" title="Shotcut version 22.12.21" in="00:00:00.000" out="00:00:28.120">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">1.41493</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition22">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition23">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition24">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
